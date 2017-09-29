@@ -1,1 +1,3 @@
 This is a new file as a part of GitHub excercise P2;
+
+Changes made from branch "develop";
