@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scholarship", "Scholarship\Scholarship.csproj", "{3A537B0D-2875-4EE4-8060-E1593D24311C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoPictures", "PhotoPictures\PhotoPictures.csproj", "{ED92BFBF-9DCB-4A67-9AA6-658927B0AAE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cake", "Cake\Cake.csproj", "{A9EF62C9-5593-4C28-93F5-098C59511C0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snowflake", "Snowflake\Snowflake.csproj", "{9F11C91A-BB8C-4E34-B310-6E2873C2DF56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profit", "Profit\Profit.csproj", "{56A138CF-9C3E-47F3-8E05-0378B7F31007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScholarshipExam", "ScholarshipExam\ScholarshipExam.csproj", "{6DB2226B-A9AF-4EFD-ABE4-19F620BE7C01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A537B0D-2875-4EE4-8060-E1593D24311C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A537B0D-2875-4EE4-8060-E1593D24311C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A537B0D-2875-4EE4-8060-E1593D24311C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A537B0D-2875-4EE4-8060-E1593D24311C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED92BFBF-9DCB-4A67-9AA6-658927B0AAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED92BFBF-9DCB-4A67-9AA6-658927B0AAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED92BFBF-9DCB-4A67-9AA6-658927B0AAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED92BFBF-9DCB-4A67-9AA6-658927B0AAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9EF62C9-5593-4C28-93F5-098C59511C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9EF62C9-5593-4C28-93F5-098C59511C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9EF62C9-5593-4C28-93F5-098C59511C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9EF62C9-5593-4C28-93F5-098C59511C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F11C91A-BB8C-4E34-B310-6E2873C2DF56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F11C91A-BB8C-4E34-B310-6E2873C2DF56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F11C91A-BB8C-4E34-B310-6E2873C2DF56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F11C91A-BB8C-4E34-B310-6E2873C2DF56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56A138CF-9C3E-47F3-8E05-0378B7F31007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56A138CF-9C3E-47F3-8E05-0378B7F31007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56A138CF-9C3E-47F3-8E05-0378B7F31007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56A138CF-9C3E-47F3-8E05-0378B7F31007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DB2226B-A9AF-4EFD-ABE4-19F620BE7C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DB2226B-A9AF-4EFD-ABE4-19F620BE7C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DB2226B-A9AF-4EFD-ABE4-19F620BE7C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DB2226B-A9AF-4EFD-ABE4-19F620BE7C01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

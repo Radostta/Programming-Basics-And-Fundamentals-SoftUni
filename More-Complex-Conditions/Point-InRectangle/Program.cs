@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Point_InRectangle
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var x1 = double.Parse(Console.ReadLine());
+            var y1 = double.Parse(Console.ReadLine());
+            var x2 = double.Parse(Console.ReadLine());
+            var y2 = double.Parse(Console.ReadLine());
+            var x = double.Parse(Console.ReadLine());
+            var y = double.Parse(Console.ReadLine());
+
+            bool isXInside = x >= x1 && x <= x2;
+            bool isYInside = y >= y1 && y <= y2;
+            bool isPointInside = isXInside && isYInside;
+
+            if (isPointInside)
+            {
+                Console.WriteLine("Inside");
+            }
+            else
+            {
+                Console.WriteLine("Outside");
+            }
+
+        }
+    }
+}

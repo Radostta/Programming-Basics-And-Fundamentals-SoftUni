@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="Num1ToNwithStep3.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Num1ToNwithStep3"
+    RequestedTheme="Light">
+
+</Application>
