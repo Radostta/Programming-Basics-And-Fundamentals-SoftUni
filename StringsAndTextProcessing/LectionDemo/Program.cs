@@ -121,6 +121,7 @@ namespace LectionDemo
             }
 
             //The HashSet does not allow adding the same name, in the List you can have same names;
+            //In reality the key would be an unique id
         }
 
         class Student
